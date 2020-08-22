@@ -6,4 +6,4 @@ Also known as Alt-F4, this is a weekly follow-on to Factorio's developer blog, t
 
 ## Issues
 
-[2020-08-21](./issue_01/#1_we_need_you.md)
+[2020-08-21](issue_01/1_we_need_you.md)
